@@ -33,7 +33,7 @@ O workflow é definido através de uma DAG (Directed Acyclic Graph) no Airflow c
 
 ## 📁 Estrutura do Repositório
 
-``text
+```text
 ├── dags/
 │   └── weather_dag.py          # Definição das tasks e agendamento do Airflow
 ├── src/
